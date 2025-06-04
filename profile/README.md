@@ -1,50 +1,61 @@
-# 🛃🌎 Aduanasoft
-
-Welcome to the official GitHub organization of **Aduanasoft**, where we build robust, secure, and efficient software solutions for customs, logistics, and international trade operations.
+<h1 align="center">🛃🌎 Aduanasoft</h1>
+<p align="center"><strong>Robust, secure, and efficient software solutions for customs, logistics, and international trade.</strong></p>
 
 ---
 
 ## 🚀 About Us
 
-**Aduanasoft** is focused on automating and optimizing customs-related processes, providing software tools that help organizations streamline operations in import/export, freight forwarding, and government compliance.
+**Aduanasoft** specializes in automating and optimizing customs-related processes.  
+We build software tools that streamline operations in:
+
+- 📦 Import/Export
+- 🚚 Freight Forwarding
+- 🏛️ Government Compliance
 
 ---
 
-## 🧱 Technologies We Use
+## 🧱 Tech Stack
 
-We work with a variety of modern and legacy technologies, including:
-
-- ⚙️ **Clarion 6.3** for legacy desktop applications.
-- 🐍 **Python** for automation, scripting, and data pipelines.
-- 🌐 **Node.js** for backend APIs and services.
-- 🐘 **SQL Server** for databases.
-- ☁️ **SFTP**, **REST**, and **cloud migration** tools.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs" />
+  <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vobxlwrbauz90s6lrthz" alt="Clarion 6.3" height="47" style="margin-left:8px;" />
+  <img src="https://windev.es/storage/en_US/img/visual/wl.png?202410041109" alt="Clarion 6.3" height="40" style="margin-left:8px;"/> 
+</p>
 
 ---
 
 ## ✅ Development Guidelines
 
-- Follow [our coding standards](./docs/coding-standards.md) for consistency.
-- Always use descriptive commit messages.
-- Open PRs against the `dev` branch (not `main`).
-- Write unit tests where possible and include test instructions in PRs.
+- 📚 Follow our [coding standards](./docs/coding-standards.md)
+- ✍️ Use clear, descriptive commit messages
+- 🔄 Open PRs against the `dev` branch (not `main`)
+- 🧪 Write unit tests where applicable and document them in your PR
 
 ---
 
 ## 👥 Contributors
 
-We’re a cross-functional team of developers, analysts, and logistics experts. Interested in collaborating or contributing? Check out our [contributing guide](./CONTRIBUTING.md).
+We are a cross-functional team of:
+
+- 👨‍💻 Developers
+- 📊 Analysts
+- 🌐 Logistics Experts
+
+📄 Want to contribute? Read our [contributing guide](./CONTRIBUTING.md).
 
 ---
 
 ## 📫 Contact
 
-Have a question or want to learn more?
-
-- 📧 Email: support@aduanasoft.com
-- 🌐 Website: [www.aduanasoft.com](https://www.aduanasoft.com)
+<p align="center">
+  <a href="mailto:support@aduanasoft.com">
+    <img src="https://img.shields.io/badge/email-support@aduanasoft.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.aduanasoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-www.aduanasoft.com-green?style=flat-square&logo=google-chrome" />
+  </a>
+</p>
 
 ---
 
-> _“Automating customs for a more connected world.”_
-
+<p align="center"><em>“Automating customs for a more connected world.”</em></p>
